@@ -13,7 +13,7 @@ Website for an ecommerce platform that allows the buying and selling of alcoholi
 
 <style>
 .wrapper img {
-  margin-bottom: 20px; 
+  margin-bottom: 90px; 
 }
 </style>
 
