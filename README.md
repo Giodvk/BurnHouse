@@ -5,7 +5,7 @@ Website for an ecommerce platform that allows the buying and selling of alcoholi
 ![Home](./home.PNG)
 
 
-* ## Choose from a wide range of products_
+* ## _Choose from a wide range of products_
 ![Catalogue](./catalogue.PNG)
 
 
